@@ -22,7 +22,7 @@ Vérifier que le déploiement de l'application sur un Cluster K8S de test se dé
 
 2. Configurer l'intégration continue :
 
-- [ ] Créez le fichier DockerFile compatible avec la version Java de l'application
+- [x] Créez le fichier DockerFile compatible avec la version Java de l'application
 - [ ] Créez le fichier deployement.yml afin de préparer le déploiement sur un **cluster K8S**
 - [ ] Créez puis configurez le ficher.gitlab-ci.yml pour exécuter automatiquement les étapes de compilation et de packaging de l'application.
 - [ ] Configurez le ficher.gitlab-ci.yml pour déployer automatiquement l'application sur un Cluster K8S de votre choix
