@@ -15,10 +15,10 @@ Vérifier que le déploiement de l'application sur un Cluster K8S de test se dé
 
 1. Configurer un environnement de test local :
 
-- [ ] Clonez le dépôt GitLab contenant l'application.
-- [ ] Vérifiez que les dépendances de l'application sont correctement installées.
-- [ ] Compilez l'application.
-- [ ] Exécutez l’appel HTTP localhost:8080/ vérifiez que le message suivant s'affiche correctement: "Spring is here!".
+- [x] Clonez le dépôt GitLab contenant l'application.
+- [x] Vérifiez que les dépendances de l'application sont correctement installées.
+- [x] Compilez l'application.
+- [x] Exécutez l’appel HTTP localhost:8080/ vérifiez que le message suivant s'affiche correctement: "Spring is here!".
 
 2. Configurer l'intégration continue :
 
